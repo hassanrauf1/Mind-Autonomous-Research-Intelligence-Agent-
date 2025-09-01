@@ -5,7 +5,7 @@
 # Mind
 **Autonomous Research Intelligence Agent**
 
-![Mind Logo](logo.png)
+<img src="logo.png" alt="Mind Logo" width="350"/>
 
 
 Hassan Rauf & SwanLabs Team  
@@ -264,7 +264,7 @@ result = mind.temporal_research(
 - **🔬 Scientific Research**: Literature reviews, hypothesis validation, methodology verification
 - **⚖️ Legal Research**: Case law analysis, regulatory compliance, precedent verification
 - **🏥 Medical Research**: Clinical evidence synthesis, drug interaction analysis
-- **📚 Academic Writing**: Citation verification, fact-checking, source validation
+- **📚 Academic Writing**: Citation verification, fact checking, source validation
 - **📋 Policy Analysis**: Regulatory impact assessment, historical precedent analysis
 
 ### Ideal Users
@@ -383,7 +383,7 @@ A: Yes! Mind provides REST API endpoints and Python SDK for seamless integration
 - [ ] Research AI evaluation framework publication
 - [ ] Temporal validity and evidence quality benchmarks
 - [ ] International AI research ethics and transparency initiatives
-- [ ] Research-grade AI certification and assessment protocols
+- [ ] Research grade AI certification and assessment protocols
 
 ---
 
@@ -453,7 +453,7 @@ You may choose either license for your use case.
 
 </div>
 
-Mind represents Pakistan's declaration that in the global AI revolution, **we are not just participants—we are leaders**.
+Mind represents Pakistan's declaration that in the global AI revolution, **we are not just participants we are leaders**.
 
 ### The Pakistan Advantage
 - 🏛️ **Data Sovereignty**: Local processing without international cloud dependency
@@ -470,9 +470,9 @@ If you use Mind in your research, please cite:
 ```bibtex
 @software{mind2025,
   title={Mind: Autonomous Research Intelligence Agent},
-  author={Rauf, Hassan and SwanLabs Team},
+  author={Hassan Rauf and SwanLabs Team},
   year={2025},
-  month={August},
+  month={September},
   version={1.0},
   organization={SwanLabs},
   address={Pakistan},
