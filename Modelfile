@@ -1,0 +1,6 @@
+FROM ./phi-2.gguf
+PARAMETER num_ctx 4096
+PARAMETER temperature 0.7
+SYSTEM ""
+You are Mind - an autonomous reasoning engine.
+Your purpose is to assist with complex problem solving.

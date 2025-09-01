@@ -1,0 +1,34 @@
+# Ignore prompts and keys
+prompts/
+config/settings.py
+.env
+*.key
+*.pem
+*.crt
+*.p12
+*.json
+# Ignore virtual environments and site packages
+.venv/
+venv/
+.venv/*
+# Ignore evidence and logs
+data/
+evidence_snapshots/
+logs/
+# Ignore Python cache
+__pycache__/
+*.pyc
+# Ignore model files
+*.gguf
+# Ignore common large binary artifacts
+*.whl
+*.zip
+*.tar.gz
+*.tar
+*.dll
+*.pyd
+# IDE and editor
+.vscode/
+.idea/
+# Ignore VSCode settings
+.vscode/
